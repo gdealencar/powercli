@@ -1,0 +1,10 @@
+[guilherme]
+	alencar = guilherme.alencar@dataprev.gov.br
+[user]
+	name = Guilherme de Alencar
+	email = gdealencar@gmail.com
+	mail = gdealencar@gmail.com
+[http]
+	sslVerify = false
+[credential "https://github.com/"]
+	username = guilherme.alencar
